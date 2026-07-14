@@ -1,6 +1,6 @@
 # Movies Data Manager
 
-A C++ console application that loads IMDB movie metadata and organizes it with classic data structures — AVL trees, hash tables, graphs, stacks, and queues — so you can search films, explore actor networks, and get graph-based recommendations.
+A C++ console application that loads IMDB movie metadata and organizes it with classic data structures including AVL trees, hash tables, graphs, stacks, and queues. Users can search films, explore actor networks, and get graph-based recommendations.
 
 ## Features
 
