@@ -5,8 +5,8 @@ A C++ console application that loads IMDB movie metadata and organizes it with c
 ## Features
 
 **Search**
-- Movie by title (AVL tree)
-- Movies by actor or genre (hash tables)
+- Movie by title (uses AVL tree)
+- Movies by actor or genre (uses hash tables)
 - Movies by release year or IMDB rating range
 
 **Actors**
